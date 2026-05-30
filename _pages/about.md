@@ -30,10 +30,9 @@ Junteng Liu is a first-year PhD candidate at HKUST NLP Group, supervised by Prof
 ## Skills
 - Natural Language Processing (NLP)
 - Machine Learning
-- Large Language Models (LLM) reasoning and fine-tuning
-- Vision-Language Models (VLM) perception and hallucination mitigation
+- LLM Reasoning and Reinforcement Learning
+- Hallucination in Vision-Language Models (VLM)
 - LLM truthfulness evaluation and interpretability analysis
-- Reinforcement learning for LLM alignment and reasoning
 
 ## Contact Information
 - Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
